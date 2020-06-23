@@ -9,7 +9,7 @@
 
 > ## Fork
 >
-> This is a temporary fork for work-in-progress TypeScript support for the original [`staticify`](https://www.npmjs.com/package/staticify) library (on [GitHub](https://github.com/errorception/staticify)). The author of this fork assumes no liability for any damages this fork may cause (see [LICENSE](./LICENSE)) and will not provide further support unless it applies to bugs with existing type definition issues. Please refer to the original library for official TypeScript declarations as soon as they are available.
+> This is a temporary fork for work-in-progress TypeScript support for the original [`staticify`](https://www.npmjs.com/package/staticify) library (on [GitHub](https://github.com/errorception/staticify)). The author of this fork assumes no liability for any damages this fork may cause (see [LICENSE](https://github.com/andrewsantarin/staticify/blob/feature/typescipt-support-npm/LICENSE)) and will not provide further support unless it applies to bugs with existing type definition issues. Please refer to the original library for official TypeScript declarations as soon as they are available.
 >
 > ## Usage
 >

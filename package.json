@@ -1,6 +1,6 @@
 {
   "name": "@andrewsantarin/staticify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Work-in-progress TypeScript support for the latest version of 'staticify': A better static asset handler for Node.js/Express.js",
   "main": "index.js",
   "author": "Rakesh Pai <rakeshpai@errorception.com>",
