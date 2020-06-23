@@ -1,15 +1,10 @@
 # staticify
 
-[![NPM version](https://img.shields.io/npm/v/staticify.svg)](https://www.npmjs.com/package/staticify)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/errorception/staticify.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/errorception/staticify/alerts/)
-[![Build Status](https://github.com/errorception/staticify/workflows/Tests/badge.svg)](https://github.com/errorception/staticify/actions?workflow=Tests)
-[![Coverage Status](https://img.shields.io/coveralls/github/errorception/staticify/master.svg)](https://coveralls.io/github/errorception/staticify?branch=master)
-[![dependencies Status](https://img.shields.io/david/errorception/staticify.svg)](https://david-dm.org/errorception/staticify)
-[![devDependencies Status](https://img.shields.io/david/dev/errorception/staticify.svg)](https://david-dm.org/errorception/staticify?type=dev)
+[![NPM version](https://img.shields.io/npm/v/@andrewsantarin/staticify.svg)](https://www.npmjs.com/package/@andrewsantarin/staticify)
 
 > ## Fork
 >
-> This is a temporary fork for work-in-progress TypeScript support for the original [`staticify`](https://www.npmjs.com/package/staticify) library (on [GitHub](https://github.com/errorception/staticify)). The author of this fork assumes no liability for any damages this fork may cause (see [LICENSE](https://github.com/andrewsantarin/staticify/blob/feature/typescipt-support-npm/LICENSE)) and will not provide further support unless it applies to bugs with existing type definition issues. Please refer to the original library for official TypeScript declarations as soon as they are available.
+> This is a **temporary fork** for work-in-progress TypeScript support for the original [`staticify`](https://www.npmjs.com/package/staticify) library (on [GitHub](https://github.com/andrewsantarin/staticify/tree/feature/typescript-support-wip-npm)). The author of this fork assumes no liability for any damages this fork may cause (see [LICENSE](https://github.com/andrewsantarin/staticify/blob/feature/typescript-support-wip-npm/LICENSE)) and will not provide further support unless it applies to bugs with existing type definition issues. Please refer to the original library for official TypeScript declarations as soon as they are available.
 >
 > ## Usage
 >
