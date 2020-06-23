@@ -1,13 +1,20 @@
 {
-  "name": "staticify",
-  "version": "4.0.0",
-  "description": "A better static asset handler for Node.js/Express.js",
+  "name": "@andrewsantarin/staticify",
+  "version": "0.0.1",
+  "description": "Work-in-progress TypeScript support for the latest version of 'staticify': A better static asset handler for Node.js/Express.js",
   "main": "index.js",
   "author": "Rakesh Pai <rakeshpai@errorception.com>",
+  "contributors": [
+    {
+      "name": "Cezar Andrew Villegas Santarin",
+      "email": "andrew.santarin@gmail.com",
+      "url": "https://github.com/andrewsantarin"
+    }
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/errorception/staticify.git"
+    "url": "https://github.com/andrewsantarin/staticify.git"
   },
   "scripts": {
     "mocha": "mocha --exit",

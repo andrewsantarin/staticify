@@ -7,6 +7,17 @@
 [![dependencies Status](https://img.shields.io/david/errorception/staticify.svg)](https://david-dm.org/errorception/staticify)
 [![devDependencies Status](https://img.shields.io/david/dev/errorception/staticify.svg)](https://david-dm.org/errorception/staticify?type=dev)
 
+> ## Fork
+>
+> This is a temporary fork for work-in-progress TypeScript support for the original [`staticify`](https://www.npmjs.com/package/staticify) library (on [GitHub](https://github.com/errorception/staticify)). The author of this fork assumes no liability for any damages this fork may cause (see [LICENSE](./LICENSE)) and will not provide further support unless it applies to bugs with existing type definition issues. Please refer to the original library for official TypeScript declarations as soon as they are available.
+>
+> ## Usage
+>
+> ```sh
+> npm install --save @andrewsantarin/staticify
+> npm install --save staticify@npm:@andrewsantarin/staticify # If you'd rather use the original name, but point to this library
+> ```
+
 A better static asset handler for Node.js/Express.js.
 
 Provides helpers to add a version identifier to your static asset's public URLs, and to remove the hash before serving the file from the file system.
